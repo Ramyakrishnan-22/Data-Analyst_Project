@@ -46,6 +46,8 @@ The dashboard transforms raw ride data into **interactive visualizations** that 
 - Integration with **Streamlit or Flask** for real-time online viewing  
 - Adding **predictive analytics** using Python integration in Power BI  
 - Automation with Power BI Service for **scheduled refreshes**
+## Overview
+<img width="1163" height="845" alt="Screenshot 2025-10-31 141853" src="https://github.com/user-attachments/assets/a9bcdca9-6a6a-4bd4-8947-96632fd9b0bc" />
 
 
 
