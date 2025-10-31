@@ -27,8 +27,9 @@ The dashboard transforms raw ride data into **interactive visualizations** that 
 📊 Dashboard Preview
 
 Here’s a preview of the **Ola Power BI Dashboard** 👇  
+<img width="1163" height="845" alt="Screenshot 2025-10-31 141853" src="https://github.com/user-attachments/assets/69bee65d-8ce3-47aa-8bb3-a0524d9a984c" />
 
-![Ola Power BI Dashboard Overview](screenshots/ola_dashboard.png)
+
 
 
 ## ⚙️ How to Use the Dashboard
