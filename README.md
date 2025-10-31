@@ -24,6 +24,11 @@ The dashboard transforms raw ride data into **interactive visualizations** that 
 - **Transformations:** Power Query Editor
 - **Visualization Elements:** Cards, KPIs, Charts, Maps, Slicers
 
+📊 Dashboard Preview
+
+Here’s a preview of the **Ola Power BI Dashboard** 👇  
+
+![Ola Power BI Dashboard Overview](screenshots/ola_dashboard.png)
 
 
 ## ⚙️ How to Use the Dashboard
@@ -35,19 +40,19 @@ The dashboard transforms raw ride data into **interactive visualizations** that 
 
 
 
-## 📊 Key Insights
-- 🚗 **Total Rides** and **Revenue Growth Trends**
-- 🧍‍♀️ **Customer & Driver Ratings Analysis**
-- 🗺️ **Top Pickup and Drop Locations**
-- 📅 **Monthly and Regional Performance KPIs**
+💡 Key Insights
+- ✅ **63.97K successful bookings**
+- ❌ **3K canceled by customers**, **5.3K canceled by drivers**
+- 🚘 **Auto rides** contribute **39% of total distance**
+- 💳 **Cash** remains the most popular payment method  
+- 📍 **Top Drop Locations:** Vijayanagar, Yeshwanthpur, Varthur, Yelahanka, Whitefield  
+
 
 
 ## 📈 Future Enhancements
-- Integration with **Streamlit or Flask** for real-time online viewing  
-- Adding **predictive analytics** using Python integration in Power BI  
-- Automation with Power BI Service for **scheduled refreshes**
-## Overview
-<img width="1163" height="845" alt="Screenshot 2025-10-31 141853" src="https://github.com/user-attachments/assets/a9bcdca9-6a6a-4bd4-8947-96632fd9b0bc" />
+- Add **real-time tracking** via Power BI Service  
+- Integrate with **Python/Streamlit** for predictive insights  
+- Automate data refresh using Power Automate  
 
 
 
