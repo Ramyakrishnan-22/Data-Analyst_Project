@@ -8,7 +8,7 @@ It provides deep insights into ride patterns, customer behavior, driver performa
 
 The dashboard transforms raw ride data into **interactive visualizations** that make performance tracking simple and effective.
 
----
+
 
 ## 🎯 Objectives
 - Analyze **total rides, revenue, and distance covered**
@@ -16,7 +16,7 @@ The dashboard transforms raw ride data into **interactive visualizations** that 
 - Identify **top-performing routes and cities**
 - Visualize **ride trends over time**
 
----
+
 
 ## 🛠 Tools & Technologies
 - **Microsoft Power BI Desktop**
@@ -24,7 +24,7 @@ The dashboard transforms raw ride data into **interactive visualizations** that 
 - **Transformations:** Power Query Editor
 - **Visualization Elements:** Cards, KPIs, Charts, Maps, Slicers
 
----
+
 
 ## ⚙️ How to Use the Dashboard
 1. Download the `.pbix` file:
@@ -33,7 +33,7 @@ The dashboard transforms raw ride data into **interactive visualizations** that 
 3. Click **Transform Data → Edit Queries** if you need to connect to a new dataset or database
 4. Refresh the visuals to see updated insights
 
----
+
 
 ## 📊 Key Insights
 - 🚗 **Total Rides** and **Revenue Growth Trends**
@@ -41,32 +41,11 @@ The dashboard transforms raw ride data into **interactive visualizations** that 
 - 🗺️ **Top Pickup and Drop Locations**
 - 📅 **Monthly and Regional Performance KPIs**
 
----
-
-## 🖼️ Example Visuals
-
-| Overview Dashboard | Regional Performance |
-|--------------------|----------------------|
-| ![Dashboard Overview](screenshots/ola_overview.png) | ![Regional Trends](screenshots/ola_region.png) |
-
-*(Add screenshots from your dashboard under a folder named `screenshots/`.)*
-
----
 
 ## 📈 Future Enhancements
 - Integration with **Streamlit or Flask** for real-time online viewing  
 - Adding **predictive analytics** using Python integration in Power BI  
 - Automation with Power BI Service for **scheduled refreshes**
 
----
-
-## 💬 Feedback
-If you liked this project, ⭐ the repository and share your suggestions!  
-I’d love to connect and learn from your feedback. 😊  
-
----
-
-### 🏷️ Tags
-`#PowerBI` `#Dashboard` `#DataVisualization` `#Analytics` `#BusinessIntelligence` `#Ola` `#Python` `#ProjectShowcase`
 
 
